@@ -65,6 +65,7 @@ params:
     ShowRssButtonInSectionTermList: true
     ShowAllPagesInArchive: true
     ShowPageNums: true
+    ShowWordCount: true
     ShowToc: true
     # comments: false
     images: ["images/papermod-cover.png"]
@@ -102,7 +103,7 @@ params:
           url: "https://github.com/jhrcook" # TODO: link to GitHub page for this site
 
     editPost:
-        URL: "https://github.com/adityatelange/hugo-PaperMod/tree/exampleSite/content"
+        URL: "https://github.com/jhrcook/fly-fishing-diary/tree/exampleSite/content"
         Text: "Suggest Changes" # edit text
         appendFilePath: true # to append file path to Edit link
 
