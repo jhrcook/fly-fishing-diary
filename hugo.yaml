@@ -1,7 +1,7 @@
 # If your site is in 'https', then make sure your base url isn't written using 'http' otherwise your sitemap would
 # contain http (as opposeed to https) URLs. This would affect Google indexing of your URLs.
 baseURL: "https://my-base-url.com/"
-title: Fly Fishing Diary
+title: Fly Fishing Journal
 paginate: 5
 theme: [PaperMod]
 
@@ -86,14 +86,26 @@ params:
         url: tags
 
   homeInfoParams:
-    Title: "👋 Welcome to my fly fishing diary"
+    Title: "Welcome to my fly fishing journal"
     Content: >
-      I began fishing with a spin rod and reel in 2023, and in 2024 I dove into fly fishing.
-      This blog is meant as a journal for me to document my thoughts as I progress through this hobby.
+      I began fishing with a spin rod and reel in 2023, and the following year I dove into fly fishing.
+      This blog is a journal where I document my thoughts as I progress through this hobby.
       <br><br>
       I'm only just starting out, so please leave comments (working on getting this added) or get in touch if you have advice or recommendations!
-      <br><br>
-      <script data-name="BMC-Widget" data-cfasync="false" src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js" data-id="joshuacook" data-description="Support me on Buy me a coffee!" data-message="Hello, want to buy me a fly?" data-color="#FFFFFF" data-position="Right" data-x_margin="18" data-y_margin="18"></script>
+      <br>
+      <script 
+        data-name="BMC-Widget" 
+        data-cfasync="false" 
+        src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js" 
+        data-id="joshuacook" 
+        data-description="Support me on Buy me a coffee!" 
+        data-message="Enjoying the blog?
+        Buy me a fly!"
+        data-color="#FFFFFF" 
+        data-position="Right" 
+        data-x_margin="18" 
+        data-y_margin="18">
+      </script>
 
   socialIcons:
     - name: X
@@ -107,7 +119,7 @@ params:
       url: "https://www.buymeacoffee.com/joshuacook"
     - name: github
       title: View Source on Github
-      url: "https://github.com/jhrcook/fly-fishing-diary"
+      url: "https://github.com/jhrcook/fly-fishing-journal"
 
   editPost:
     URL: "https://github.com/jhrcook/fly-fishing-journal/tree/main/content"
