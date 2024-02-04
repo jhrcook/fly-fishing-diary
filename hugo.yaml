@@ -107,7 +107,7 @@ params:
       url: "https://github.com/jhrcook/fly-fishing-diary"
 
   editPost:
-    URL: "https://github.com/jhrcook/fly-fishing-diary/tree/exampleSite/content"
+    URL: "https://github.com/jhrcook/fly-fishing-journal/tree/main/content"
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 
