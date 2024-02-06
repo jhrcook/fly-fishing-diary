@@ -28,3 +28,5 @@ Finally, I recorded a bit of my practice so I could watch it back later and comp
 Watching it from my (warmer) apartment afterwards, it wasn't pretty, but it was helpful to see my posture, how my arms were moving, and how the rod traveled.
 
 I'm happy to have gotten in some practice, but I cannot wait for warmer weather.
+
+{{< chat cactus-comments >}}
