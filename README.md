@@ -14,3 +14,17 @@ To implement/fix:
 To write:
 
 - [ ] About
+
+---
+
+## Notes
+
+### Comments
+
+Cactus Comments docs: <https://cactus.chat/docs/>
+
+To access a comments moderation room:
+
+1. Log in to the Element app online: <https://app.element.io/>
+1. Hit the "+" button and selection "Join public room"
+1. Fill in the text box with "#comments_jhrcook-fly-fishing-journal_<comment-section-ID>:cactus.chat" and hit the "Return" key
