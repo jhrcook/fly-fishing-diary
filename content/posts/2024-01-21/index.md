@@ -16,3 +16,7 @@ cover:
 This is just a quick documentation of the day I got **my first fly fishing rod**.
 It's nothing special, just a Redington Crosswater rod and reel from Amazon for $97.74, but I am so excited.
 It's still very much the middle of winter here in Boston with short, cold days, but I am looking forward to getting out in the spring to start my new hobby.
+
+---
+
+{{< chat 2024-01-21 >}}

@@ -32,3 +32,7 @@ He answered all of my newbie questions without any sense of annoyance and was pa
 I am incredibly grateful for his help and he offered it to everyone he spoke with, even offering to chat with them on the phone if they needed general help or guidance in the future.
 I also chatted with the owner **Andy** as I checked out, and he gave me some pointers and online learning resources.
 Overall, the guys who run this shop are decent humans and I look forward to seeing them again soon.
+
+---
+
+{{< chat 2024-01-27 >}}

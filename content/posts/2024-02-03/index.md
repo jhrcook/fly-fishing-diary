@@ -21,3 +21,7 @@ Overall, I was frustrated (it didn't help that I lost my Wooly Bugger when I did
 But importantly, I wasn't frustrated with the sport, I was annoyed by the thought that we still have about two months more of winter.
 I can't wait for the spring to arrive, the days to lengthen, the weather to warm.
 **I can't wait to be obsessed.**
+
+---
+
+{{< chat 2024-02-03 >}}
