@@ -92,20 +92,6 @@ params:
       This blog is a journal where I document my thoughts as I progress through this hobby.
       <br><br>
       I'm only just starting out, so please leave comments (working on getting this added) or get in touch if you have advice or recommendations!
-      <br>
-      <script 
-        data-name="BMC-Widget" 
-        data-cfasync="false" 
-        src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js" 
-        data-id="joshuacook" 
-        data-description="Support me on Buy me a coffee!" 
-        data-message="Enjoying the blog?
-        Buy me a fly!"
-        data-color="#FFFFFF" 
-        data-position="Right" 
-        data-x_margin="18" 
-        data-y_margin="18">
-      </script>
 
   socialIcons:
     - name: X
@@ -136,13 +122,12 @@ params:
   #     google:
   #         SiteVerificationTag: "XYZabc"
 
-  assets:
-    disableHLJS: true
-  #     favicon: "<link / abs url>"
-  #     favicon16x16: "<link / abs url>"
-  #     favicon32x32: "<link / abs url>"
-  #     apple_touch_icon: "<link / abs url>"
-  #     safari_pinned_tab: "<link / abs url>"
+  # assets:
+  #   favicon: "assets/golden-trout.png"
+  #   favicon16x16: "<link / absolute url>"
+  #   favicon32x32: "<link / absolute url>"
+  #   apple_touch_icon: "<link / absolute url>"
+  #   safari_pinned_tab: "<link / absolute url>"
 
   # cover:
   #     hidden: true # hide everywhere but not in structured data
