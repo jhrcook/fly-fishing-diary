@@ -4,7 +4,6 @@ Built with [Hugo](https://gohugo.io) and the [PaperMod](https://github.com/adity
 Deployed by [GitHub Actions](https://github.com/features/actions) to [GitHub Pages](https://pages.github.com).
 The favicon was derived from "golden trout" by Oleksandr Panasovskyi from <a href="https://thenounproject.com/browse/icons/term/golden-trout/" target="_blank" title="golden trout Icons">Noun Project</a> (CC BY 3.0)
 
-
 ---
 
 ## Notes
