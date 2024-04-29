@@ -13,40 +13,40 @@ cover:
     hidden: false # only hide on current single page
 ---
 
-Started my day's journey biking along the Esplanade to North Station to catch the Fitchburg 1403 at 10:20 AM.
+My day's journey started with a bike ride along the Esplanade to North Station to catch the Fitchburg 1403 at 10:20 AM.
 It was a beautiful spring day, and I was looking forward to spending it unconcerned.
 
-I spent the 40 minute train ride to West Concord reading Anthony Doerr's *Four Seasons in Rome*, a memoir about a year he spent living in the Eternal City with his wife and newborn twin boys.
-It's as much about Rome as it is about reflecting on beauty and awe – perfect mindset for some fishing.
+I spent the forty-minute train ride to West Concord reading Anthony Doerr's [*Four Seasons in Rome*](https://www.goodreads.com/book/show/137852.Four_Seasons_in_Rome), a memoir about a year he spent living in the Eternal City with his wife and newborn twin boys.
+It's as much about Rome as it is about reflecting on beauty and awe – the perfect mindset for some fishing.
 
 Today's trip was a bit of a last minute decision.
-The Concord Outfitters fly shop sent out a newsletter late in the week about trying the new Orvis Helios III rod, so I figured I'd go hang out if there was a bit of a crowd.
-If not, I would go fishing myself, read in the sun, enjoy lunch at Nashoba Brook Bakery, etc.
-I wasn't too concerned with the precise schedule of the day, just that I would enjoy it.
+The [Concord Outfitters](https://concordoutfitters.com) fly shop sent out a newsletter late in the week about trying the new Orvis Helios III rod, so I figured I'd go hang out if there was a bit of a crowd.
+If not, I could go fishing myself, read in the sun, enjoy lunch at [Nashoba Brook Bakery](http://slowrise.com), etc.
+I wasn't too preoccupied with the precise schedule of the day, just that I would enjoy it.
 
-In the end, there wasn't too much of a crowd, so I asked Dylan, the employee who set me up with my first set of flies a few months back, to point me towards a good fishing spot within biking distance.
+In the end, there wasn't too much of a crowd, so I asked Dylan, the employee who set me up with my first set of flies a [few months back]({{<relref "posts/2024-01-27">}}), to point me towards a good fishing spot within biking distance.
 Conveniently, he said they had just stocked rainbows in a stretch of the Assabet about 2 miles west.
-He warned that it may be a bit crowded, but most of the fly fishermen were likely customers of the Outfitters and would be happy to help me out if I wanted.
+He warned that it may be a bit crowded, but most of the fly fishermen were likely customers of the Outfitters and would be happy to help me out if needed.
 I thanked Dylan, told him I'd be back in a couple of hours; he wished me luck, and I started on the short bike ride down Main Street.
 
 I found the site without too much trouble.
-Took some faffing about to get my bike locked to a tree, reshuffle my backpack, get the relevant fly fishing kit ready, string my rod, change my shoes, organize my pockets, but I was eventually ready to get out on the water.
+Took some faffing about to get my bike locked to a tree, reshuffle my backpack, get the relevant fly fishing kit ready, string my rod, change my shoes, organize my pockets – but I was eventually ready to get out on the water.
 
 It wasn't busy at all.
 There were two other fly fishermen on the water.
-I spoke briefly to one who was probably about my age, and he was very kind, make some recommendations and wished me luck.
+I spoke briefly to one who was probably about my age, and he was very kind, made some recommendations and wished me luck.
 I crossed paths with him a few time throughout the day as he made his way along the river and back.
 
 I found myself a spot that looked fishy with plenty of room around for bad fly casting technique.
 At Dylan's recommendation, I tied on a black Wooly Bugger, but my main focus was to get more comfortable with casting.
-It had been awhile since I last fly cast (we had a long, cold winter this year), but I grew more comfortable with some time.
-I have no idea if I was doing anything right, but I was able to get my fly out further as I went on, perhaps 20 feet into the river.
+It had been awhile since [I last fly cast]({{<relref "posts/2024-02-10">}}) (we had a long, cold winter this year), but I grew more comfortable with some time.
+I have no idea if I was doing anything right, but I was able to get my fly out further as I went on, perhaps twenty feet into the river.
 
 I got tangled on the trees behind and next to me.
-In acts of betrayal, I got tangled on my own rod.
+In what felt like acts of betrayal, I got tangled on my own rod.
 The line seemed to tangle on itself somehow.
-I would have been more frustrated if I wasn't so impressed with the geometry of some of the line tangles.
-I wonder if given the vast size of the multidimensional "tangle-space" that each tangle of moderate complexity is unique.
+I would have been more frustrated if I wasn't so impressed with the geometry of some of the line knots.
+Given the vast size of the multidimensional "tangle-space", I wonder if each tangle of moderate complexity is unique.
 The musings of a new, under-practiced fly angler.
 
 Didn't catch anything for an hour or so, so I took a break to have lunch sitting along the bank.
@@ -54,34 +54,34 @@ The sounds along the Assabet river in Acton/Concord is a world away from that of
 Often, it makes me resentful of living in the city.
 
 I found a black streamer at the base of the beaver-gnawed tree I had leaned by backpack up against.
-It resembled a black Wooly Bugger save for some tinsle mixed into the body and tail and a bright red-orange bead for the head.
+It resembled a black Wooly Bugger save for some tinsel mixed into the body and tail and a bright red-orange bead for the head.
 I figured my all-black streamer wasn't catching anything and someone else thought this fancy streamer would work, so I tied in my "new" fly and returned to the water.
 
-I practiced for another hour or so, improving (I think).
-I didn't get as many tangles and I was more able to reliably and repeatedly cast my fly in such a way as it would take the line I offered it.
-Unfortunately, I was forced to stop after I wrapped my fly around a medium-sized branch of a tree about 15 feet off the ground.
-I had to break the line, returning the fly back to the water's edge, taunted by the tinsle dancing in the sunlight.
+I practiced for another hour or so, improving (I think?).
+I didn't get as many tangles, and I was more reliably and repeatedly casting my fly in such a way as it would take the line I offered it.
+Unfortunately, I was forced to stop after I wrapped my fly around a medium-sized branch of a tree about fifteen feet off the ground.
+I had to break the line, returning the fly back to the water's edge, taunted by the tinsel dancing in the sunlight.
 Ironically, it was the same tree as where I had found it, so I might look to reclaim the fly after the beaver's had a chance to finish his job.
 
-With my first lost fly, I figured I'd enjoyed some fishing and would head back to West Concord to catch the 3:15 PM train back into town (the following train wouldn't arrive until 5:15 PM).
-I think I'll plan some time during the week to watch some online casting tutorials and find a park to practice in.
+With my first lost fly, I figured I'd enjoyed some fishing and would head back to West Concord to catch the 3:16 PM train back into town (the following train wouldn't arrive until 5:16 PM).
+I think I'll plan some time during the week to watch some online casting tutorials and find a local park to practice in.
 
 I biked back into town and passed Dylan giving a fly casting tutorial in the park.
 I didn't want to disrupt the lesson, but briefly filled him in on how my day went.
 (I'm considering signing up for some lessons of my own, too.)
 
 This was when I realized by back tire was completely deflated.
-It had been having issues holding air for a month or so now, and I think it has finally given out.
+It had been struggling to hold air for a month or so now, and it had finally given out.
 Thankfully, I was close to the train stop and had enough time to walk the bike.
 Unfortunately, I'm a better fisherman than I am a bicycle repairman – that is to say, I'm useless at mending a bike – so I'll need to get help replacing my tire.
 
 I read more of Doerr's memoir as I waited for the train.
 The sun was still out and it felt great on my feet.
 The 3:16 PM train arrived at 3:22 PM.
-The train wasn't too busy and I read most of the way in, taking a minute to look at bicycle repair shops in Boston.
+The train wasn't too busy and I read most of the way, taking a minute search online for bicycle repair shops in Boston.
 I think I'll take it to a local shop in the South End, maybe have it get a full tune-up while I'm at it.
 
-We arrived back in Boston around 4 PM, and I set out on walking my bike the 3 circuitous miles through the heart of the city back to my apartment.
+We arrived back in Boston around 4 PM, and I set out on walking my bike the three circuitous miles through the heart of the city back to my apartment.
 I chauffeured my bike around the gold dome of the capital building, through the Commons, around the Public Gardens, and finally back into the South End.
 
 Back in the South End, I turned off the main streets opting for the more visually appealing, quieter side streets.
@@ -91,13 +91,13 @@ We stood in the street and chatted.
 An older gentleman, he showed me a photo of the first trout he caught in Jamaica pond (I think he said in the 80's) and told me about how he loves fishing for stripped bass at the mouth of the Charles nowadays.
 I told him what I'd been up to for the day and where I normally like to go.
 He asked to see my fly rod and showed me a photo of his daughter who now lives in Santa Monica.
-I don't think he was as interested in talking about fishing as he was interested in talking to someone else who fishes.
+I don't think he was as interested in talking about fishing as he was interested in talking to a fellow fisherman.
 After a few minutes, we said goodbye, shook hands, and I continued on my walk.
 
 As I passed the little park at the corner of my street, I decided to stop and read for awhile on one of the benches overlooking the tulip garden.
 I read as the kids played in the jungle gym and the parents conferenced about the kids playing in the jungle gym.
 It was pleasant.
-It fulfilled the romantic vision I have of how I want to spend my days: out, slow, reading, reflecting.
+It fulfilled the romantic vision I have of how I want to spend my days: outside, slow, reading, reflecting.
 
 I only stayed for a few minutes, but as I was leaving I looked back at the tulips and recalled the following from Doerr that I had read on my journey up to Concord a few hours ago:
 
@@ -123,7 +123,7 @@ More flies?
 Had I taken the early train?
 It was nagging at the back of my mind, and I had been ignoring it.
 But after my run-in with Andrew, slowing down to read, and really looking at the tulips, I felt at ease.
-I had spent my day as I wanted: outside, doing new things, adventuring a bit, taking my time, meeting and talking with other fishermen.
+I had spent my day as I wanted: outside, trying new things, adventuring, taking my time, meeting and talking with other fishermen.
 
 ---
 
